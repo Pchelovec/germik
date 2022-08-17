@@ -1,0 +1,10 @@
+#For running application write in cmd 
+# python inputVideo, timing, replacedText 
+
+# example python 'Seven Nation Army (Glitch Mob Remix) - Lyric Video.mp4', 1.13:208, 'no mat, please'
+
+gTTS
+opencv
+numpy
+ffmpeg
+python-ffmpeg
